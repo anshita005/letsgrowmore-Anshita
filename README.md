@@ -25,4 +25,4 @@ Watch Tutorial - https://tinyurl.com/LGMYOUTUBE
 Watch Tutorial -  https://youtu.be/oc0egN5_KJk
 # Preview
 
-![ToDoList](https://user-images.githubusercontent.com/57475269/192216531-5815b8ee-9773-4397-8cb9-70f83253b740.PNG)
+
